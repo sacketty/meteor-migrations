@@ -1,0 +1,10 @@
+{
+	"name": "migrations",
+	"description": "A pattern for migrations in Meteor.",
+	"homepage": "https://github.com/AndreasHeiberg/meteor-migrations",
+	"author": "Andreas Heiberg <heibergandreas@gmail.com>",
+	"version": "0.1.0",
+	"git": "https://github.com/AndreasHeiberg/meteor-migrations.git",
+	"packages": {
+	}
+}
