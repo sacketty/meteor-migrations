@@ -9,7 +9,7 @@ Package.on_use(function (api, where) {
 });
 
 Package.on_test(function(api) {
-	api.use('migrations', 'server');
+	api.use('meteor-migrations', 'server');
 	api.use(['tinytest', 'test-helpers'], 'server');  
 
 	api.add_files('migrations_tests.js', 'server');
